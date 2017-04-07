@@ -1,0 +1,15 @@
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\bin\Debug\BBCTest.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\bin\Debug\BBCTest.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\bin\Debug\BigBuildingCapture.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\bin\Debug\BigBuildingCapture.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.pdb
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\bin\Debug\BBCTest.dll
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\bin\Debug\BBCTest.pdb
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\bin\Debug\BigBuildingCapture.exe
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\bin\Debug\BigBuildingCapture.pdb
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.dll
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BBCTest\obj\Debug\BBCTest.pdb

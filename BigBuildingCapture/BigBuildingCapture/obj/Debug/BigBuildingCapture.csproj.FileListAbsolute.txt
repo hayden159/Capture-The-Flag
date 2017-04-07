@@ -1,0 +1,18 @@
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.exe
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.pdb
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.exe
+c:\users\owner\documents\visual studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.exe.config
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.exe
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.pdb
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.exe
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\bin\Debug\BigBuildingCapture.pdb
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.Form1.resources
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.Properties.Resources.resources
+C:\Users\Owner\OneDrive\BBC\BigBuildingCapture\BigBuildingCapture\obj\Debug\BigBuildingCapture.csproj.GenerateResource.Cache
